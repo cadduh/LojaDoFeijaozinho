@@ -1,4 +1,4 @@
-package cartilhaCovid;
+package loja;
 
 import java.awt.*;
 import java.awt.event.ActionEvent;
